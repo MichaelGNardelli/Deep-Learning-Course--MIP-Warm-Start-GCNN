@@ -1,5 +1,5 @@
 # Deep-Learning-Course--MIP-Warm-Start-GCNN
-By Nick Masri, Sean Kelley, Michael Nardelli for CSE 498
+By Nick Masri, Sean Kelley, Michael Nardelli
 
 ### Overview
 
@@ -30,6 +30,8 @@ Search](https://github.com/deepmind/neural_lns) and `instance_generation.py` fro
 for the two papers linked above). Our contributions are `data_generation.py`,
 `evaluate_solvers.py`, and `solvers.py`, which form the glue code for the borrowed
 files.
+
+The above files were condensed into an .ipynb for viewing and understanding ease.
 
 # Source
 @misc{nair2020solving,
